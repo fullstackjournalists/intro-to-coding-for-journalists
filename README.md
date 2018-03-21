@@ -1,7 +1,6 @@
 # Intro To Coding For Journalists
 
-This repository will hold a growing collection of resources and links to repositories to support a semester-long college level course aimed at journalists who want to learn coding skills.  
-
+This repository will hold a growing collection of resources and links to repositories to support a semester-long college level course aimed at journalists who want to learn coding skills.
 
 ## Coding For Journalists: A Course Outline
 
@@ -11,17 +10,41 @@ We address the basic questions of 'why code' -- which go far beyond 'it will get
 
 We introduce the idea of a 'development environment' -- the integrated suite of tools used by newsroom developers to create projects. Each student leaves with a working set of tools.
 
+*Week One Readings*
+[Does Journalism Work?](http://jonathanstray.com/does-journalism-work), Jonathan Stray
+[Getting to Know The Command Line], David Baumgold
+[Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction#start), Chapter 1, The Basics
+
 ### Week Two: Version Control: Git, Github
 
 We introduce version control -- a core aspect of coding and collaborating. We connect to code repositories maintained by The New York Times, Washington Post, and The Guardian and 'clone' those onto our own machines.
+
+*Week Two Readings*
+[Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction#start), Chapter 2, Branching and Merging, and Chapter 3, Sharing Code
+
+*Week Two Diagnostic*
+You will have a diagnostic (quiz) on the basics of Git, Github, and the command line.
 
 ### Week Three: Bootstrap and Flat File Websites
 
 We use Bootstrap -- a template language developed by Twitter -- to create a template for a simple flat-file website, which we store and host on Github. (Builds on the HTML/CSS lessons from 550 and 704)
 
+*Week Three Readings*
+Interactive Data Visualization for the Web, Chapter 3
+[What Is Bootstrap and How Do I Use It?](https://www.taniarascia.com/what-is-bootstrap-and-how-do-i-use-it/)
+
+*Week Three Diagnostic*
+You will have a diagnostic on the terms and concepts covered in Chapter 3 of Interactive Data Visualization for the Web, and terms and concepts covered in What Is Bootstrap and How Do I Use It?
+
 ### Week Four: Javascript: The D3.js Library Introduction
 
 We introduce Javascript concepts and begin using D3.js, a library created by Mike Bostock to do election data visualizations for the New York Times. D3.js has now become the dominant web-ready data visualization library. We also do a 'tour' of state of the art data visualizations from newsrooms.
+
+*Week Four Readings*
+Interactive Data Visualization for the Web, Chapters 4 & 5
+
+*Week Four Diagnostic*
+You will have a diagnostic on the portions of Javascript covered in Chapters 3 & 4.
 
 ### Week Five: Javascript: Using D3.js To Build Data Visualizations
 
@@ -35,24 +58,34 @@ We will use the simple flat-file website we built in Week Three to 'host' our da
 
 We take the basic D3 skills we have learned and, like art students, 'copy' a data visualization done by The Washington Post, and push it live to our own websites.
 
-We also preview an app template -- either The Washington Post's Kyt or the NPR App Template, which will be used for a group project
+We also preview an app template -- either The Washington Post's Kyt or the NPR App Template, which will be used for a group project.
 
 ### Week Eight: Project Planning & Collaboration
 
 Practicing all of these skills in a real newsroom environment means having excellent project management and collaboration skills. We learn basic aspects of the Agile tech project management methodology, learn how to build and manage a project card board, and practice splitting up projects, doing tasks, and merging and launching code when it's from multiple team members. Students pitch a team project.
 
-### Week Nine: App Framework/App Templates
+*Week Eight Reading*
+[Interviewing Humans: A Guide to User Research](http://alistapart.com/article/interviewing-humans), Erika Hall
+[Painless Functional Specifications: Why Bother?](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/), Joel Spolsky
 
-We will get a basic web app running during this class using an app template created for use in a newsroom environment (WaPo's Kyt, or the NPR App Template). We'll use a simple list-search-sort app using data on police shootings.
+### Week Nine: News App Frameworks/News App Templates
 
-### Week Ten: App Framework Hosting
+We will get a basic web app running during this class using an app template created for use in a newsroom environment (NYT's Kyt, or the NPR App Template). We'll use a simple list-search-sort app using data on police shootings.
 
-We go over how to 'push' your app live on the web using free app hosting platforms like Heroku.
+*Week Nine Readings*
+[How To Build a News App In Two Days](https://source.opennews.org/articles/news-app-in-two-days/), Al Shaw, ProPublica
 
-### Week Eleven and Twelve: Project Workshop
+### Week Ten: News App Framework Hosting
+
+We go over how to 'push' your app live on the web using free app/database hosting environments like Heroku.
+
+*Week Ten Readings*
+[Introduction to Heroku](https://www.youtube.com/watch?v=QTOkqzCTGxw)
+
+### Week Eleven and Twelve: News App Project Workshop
 
 Students will work together in teams and address issues they have encountered with their projects.
 
-### Week Thirteen: Project Presentation & Final Pull Requests
+### Week Thirteen: News App Project Presentation & Final Pull Requests
 
 Students give a live presentation of their app and do a final 'pull request' on the news organization's repository, letting them know a student team has built an app with the app template they developed.
