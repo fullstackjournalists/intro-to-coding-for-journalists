@@ -12,7 +12,7 @@ We introduce the idea of a 'development environment' -- the integrated suite of 
 
 *Week One Readings*<br><br>
 [Does Journalism Work?](http://jonathanstray.com/does-journalism-work), Jonathan Stray<br>
-[Getting to Know The Command Line]*https://www.davidbaumgold.com/tutorials/command-line/, David Baumgold<br>
+[Getting to Know The Command Line](https://www.davidbaumgold.com/tutorials/command-line/), David Baumgold<br>
 [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction#start), Chapter 1, The Basics<br><br>
 
 ### Week Two: Version Control: Git, Github
@@ -48,17 +48,30 @@ You will have a diagnostic on the portions of Javascript covered in Chapters 3 &
 
 ### Week Five: Javascript: Using D3.js To Build Data Visualizations
 
-We build a simple Javascript data visualization using D3.js.  (Builds on, but doesn't require, skills learned in Prof. Mulvihill and Prof. Brooke Williams' classes).
+We build a simple Javascript data visualization using D3.js.
+
+*Week Five Readings*<br>
+Interactive Data Visualization for the Web, Chapters 6-8
+
+*Week Five Diagnostic*<br>
+You will have a diagnostic on Chapters 6-8 of Interactive Data Visualization for the Web.
 
 ### Week Six: Serving Data Visualizations to the Web
 
 We will use the simple flat-file website we built in Week Three to 'host' our data visualization.  Reviews key development skills such as using a local webserver to test our work, and then 'pushing' it live to the web using version control tools.
+
+*Week Six Readings*<br>
+[Grunt.js Taskrunner: Getting Started](https://gruntjs.com/getting-started) Read this and install Grunt via npm. Be sure you can 'spin up' a local webserver in a directory on your own machine. <br>
+[Creating a website on Github Pages](https://dev.to/programliftoff/create-your-first-website-on-github-pages)
 
 ### Week Seven: Javascript: More Complex Data Visualizations
 
 We take the basic D3 skills we have learned and, like art students, 'copy' a data visualization done by The Washington Post, and push it live to our own websites.
 
 We also preview an app template -- either The Washington Post's Kyt or the NPR App Template, which will be used for a group project.
+
+*Week Seven Readings*<br>
+Chapter 10, Interactive Data Visualization for the Web<br>
 
 ### Week Eight: Project Planning & Collaboration
 
