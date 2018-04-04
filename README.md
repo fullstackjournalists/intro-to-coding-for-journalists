@@ -10,6 +10,8 @@ We address the basic questions of 'why code' -- which go far beyond 'it will get
 
 We introduce the idea of a 'development environment' -- the integrated suite of tools used by newsroom developers to create projects. Each student leaves with a working set of tools.
 
+Weekly presentation: Each week a student or pair of students should select and be prepared to discuss a news app or data visualization.
+
 *Week One Readings*<br><br>
 [Does Journalism Work?](http://jonathanstray.com/does-journalism-work), Jonathan Stray<br>
 [Getting to Know The Command Line](https://www.davidbaumgold.com/tutorials/command-line/), David Baumgold<br>
@@ -31,7 +33,8 @@ We use Bootstrap -- a template language developed by Twitter -- to create a temp
 
 *Week Three Readings*<br>
 Interactive Data Visualization for the Web, Chapter 3<br>
-[What Is Bootstrap and How Do I Use It?](https://www.taniarascia.com/what-is-bootstrap-and-how-do-i-use-it/)<br><br>
+[What Is Bootstrap and How Do I Use It?](https://www.taniarascia.com/what-is-bootstrap-and-how-do-i-use-it/)<br>
+[Lessons from an Intermediate Programmer-Journalist](http://michelleminkoff.com/2015/03/27/lessons-from-an-intermediate-programmer-journalist-part-3-of-3/)<br>
 
 *Week Three Diagnostic*<br>
 You will have a diagnostic on the terms and concepts covered in Chapter 3 of Interactive Data Visualization for the Web, and terms and concepts covered in What Is Bootstrap and How Do I Use It?
@@ -42,6 +45,7 @@ We introduce Javascript concepts and begin using D3.js, a library created by Mik
 
 *Week Four Readings*<br>
 Interactive Data Visualization for the Web, Chapters 4 & 5
+[Data Journalism Must Live Up To Its Own Standards](http://www.niemanlab.org/2014/07/alberto-cairo-data-journalism-needs-to-up-its-own-standards/), Alberto Cairo, NiemanLab
 
 *Week Four Diagnostic*<br>
 You will have a diagnostic on the portions of Javascript covered in Chapters 3 & 4.
@@ -62,7 +66,8 @@ We will use the simple flat-file website we built in Week Three to 'host' our da
 
 *Week Six Readings*<br>
 [Grunt.js Taskrunner: Getting Started](https://gruntjs.com/getting-started) Read this and install Grunt via npm. Be sure you can 'spin up' a local webserver in a directory on your own machine. <br>
-[Creating a website on Github Pages](https://dev.to/programliftoff/create-your-first-website-on-github-pages)
+[Creating a website on Github Pages](https://dev.to/programliftoff/create-your-first-website-on-github-pages)<br>
+[Building News Apps on a Shoestring](https://source.opennews.org/articles/building-news-apps-shoestring/), Alan Palazzolo, ProPublica
 
 ### Week Seven: Javascript: More Complex Data Visualizations
 
@@ -72,6 +77,8 @@ We also preview an app template -- either The Washington Post's Kyt or the NPR A
 
 *Week Seven Readings*<br>
 Chapter 10, Interactive Data Visualization for the Web<br>
+[What I Learned Recreating One Chart Using 24 Tools](https://source.opennews.org/articles/what-i-learned-recreating-one-chart-using-24-tools/), Lisa Charlotte Rost, Source<br>
+[Seeing Like A Geek](http://crookedtimber.org/2012/06/25/seeing-like-a-geek/), Tom Slee, Crooked Timber
 
 ### Week Eight: Project Planning & Collaboration
 
@@ -80,13 +87,16 @@ Practicing all of these skills in a real newsroom environment means having excel
 *Week Eight Reading*<br>
 [Interviewing Humans: A Guide to User Research](http://alistapart.com/article/interviewing-humans), Erika Hall<br>
 [Painless Functional Specifications: Why Bother?](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/), Joel Spolsky
+[We can draw school zones to make classrooms less segregated. This is how well your district does.](https://www.vox.com/2018/1/8/16822374/school-segregation-gerrymander-map), Alvin Chang, Vox
 
 ### Week Nine: News App Frameworks/News App Templates
 
 We will get a basic web app running during this class using an app template created for use in a newsroom environment (NYT's Kyt, or the NPR App Template). We'll use a simple list-search-sort app using data on police shootings.
 
 *Week Nine Readings*<br>
-[How To Build a News App In Two Days](https://source.opennews.org/articles/news-app-in-two-days/), Al Shaw, ProPublica
+[How To Build a News App In Two Days](https://source.opennews.org/articles/news-app-in-two-days/), Al Shaw, ProPublica<br>
+[Implementing Scrollytelling in Six Libraries](https://pudding.cool/process/how-to-implement-scrollytelling/), Russell Goldenberg, The Pudding<br>
+[Homan Square: A Portrait of Chicago's Detainees](https://www.theguardian.com/us-news/ng-interactive/2015/oct/19/homan-square-chicago-police-detainees), The Guardian<br>
 
 ### Week Ten: News App Framework Hosting
 
@@ -94,6 +104,7 @@ We go over how to 'push' your app live on the web using free app/database hostin
 
 *Week Ten Readings*<br>
 [Introduction to Heroku](https://www.youtube.com/watch?v=QTOkqzCTGxw)
+[NewsPix](http://www.kanarinka.com/project/newspix/), Catherine D'Ignazio
 
 ### Week Eleven and Twelve: News App Project Workshop
 
