@@ -19,7 +19,7 @@ Weekly presentation: Each week a student or pair of students should select and b
 
 ### Week Two: Version Control: Git, Github
 
-We introduce version control -- a core aspect of coding and collaborating. We connect to code repositories maintained by The New York Times, Washington Post, and The Guardian and 'clone' those onto our own machines.
+We introduce version control — a core aspect of coding and collaborating. We connect to code repositories maintained by The New York Times, Washington Post, and The Guardian and 'clone' those onto our own machines.
 
 *Week Two Readings*<br>
 [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction#start), Chapter 2, Branching and Merging, and Chapter 3, Sharing Code<br>
