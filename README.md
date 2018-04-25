@@ -19,7 +19,7 @@ Weekly presentation: Each week a student or pair of students should select and b
 
 ### Week Two: Version Control: Git, Github
 
-We introduce version control — a core aspect of coding and collaborating. We connect to code repositories maintained by The New York Times, Washington Post, and The Guardian and 'clone' those onto our own machines.
+We introduce version control -- a core aspect of coding and collaborating. We connect to code repositories maintained by The New York Times, Washington Post, and The Guardian and 'clone' those onto our own machines.
 
 *Week Two Readings*<br>
 [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction#start), Chapter 2, Branching and Merging, and Chapter 3, Sharing Code<br>
@@ -93,31 +93,44 @@ Chapter 10, Interactive Data Visualization for the Web<br>
 [What I Learned Recreating One Chart Using 24 Tools](https://source.opennews.org/articles/what-i-learned-recreating-one-chart-using-24-tools/), Lisa Charlotte Rost, Source<br>
 [Seeing Like A Geek](http://crookedtimber.org/2012/06/25/seeing-like-a-geek/), Tom Slee, Crooked Timber
 
-### Week Eight: Project Planning & Collaboration
+*Week Seven Assignment*<br>
+For the remainder of the semester, you will be working on an immersive story of your own creation. See the Story Standards document for requirements for this assignment. Next week, you will come to class and make a pitch to me and your fellow students for your semester project.
 
-Practicing all of these skills in a real newsroom environment means having excellent project management and collaboration skills. We learn basic aspects of the Agile tech project management methodology, learn how to build and manage a project card board, and practice splitting up projects, doing tasks, and merging and launching code when it's from multiple team members. Students pitch a team project.
+*Week Seven Diagnostic*
+You will have a ten-question diagnostic on Chapter 9 of Interactive Data Visualization for the Web.
+
+### Week Eight: Project Pitches; Project Planning & Collaboration
+
+We will begin with students pitching a project. Practicing all of these skills in a real newsroom environment means having excellent project management and collaboration skills. We learn basic aspects of the Agile tech project management methodology, learn how to build and manage a project card board, and practice splitting up projects, doing tasks, and merging and launching code when it's from multiple team members.
 
 *Week Eight Reading*<br>
 [Interviewing Humans: A Guide to User Research](http://alistapart.com/article/interviewing-humans), Erika Hall<br>
 [Painless Functional Specifications: Why Bother?](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/), Joel Spolsky<br>
 [We can draw school zones to make classrooms less segregated. This is how well your district does.](https://www.vox.com/2018/1/8/16822374/school-segregation-gerrymander-map), Alvin Chang, Vox
 
-### Week Nine: News App Frameworks/News App Templates
+*Week Eight Assignment*<br>
 
-We will get a basic web app running during this class using an app template created for use in a newsroom environment (NYT's Kyt, or the NPR App Template). We'll use a simple list-search-sort app using data on police shootings.
+Fork and clone the Scroll Driven Story repo. Review the code and the README. Visit the examples of scroll-driven stories in the Examples.md file. _Add your own link to the list of scroll-driven story examples, using the format you see there -- it can't be one that's already there, and it can't be one of the ones we will review in Week Nine. Do a pull request to add your link to the list of examples.
+
+### Week Nine: Scroll-Driven Storytelling & Other New Forms
+
+We will take a look at three major new tech-driven news forms, including news apps, customizable stories, and scroll-driven stories. During this class, we will get a basic scrolling site up and running using the Scrollmagic.js library.
 
 *Week Nine Readings*<br>
 [How To Build a News App In Two Days](https://source.opennews.org/articles/news-app-in-two-days/), Al Shaw, ProPublica<br>
 [Implementing Scrollytelling in Six Libraries](https://pudding.cool/process/how-to-implement-scrollytelling/), Russell Goldenberg, The Pudding<br>
+
+*Week Nine Examples*
 [Homan Square: A Portrait of Chicago's Detainees](https://www.theguardian.com/us-news/ng-interactive/2015/oct/19/homan-square-chicago-police-detainees), The Guardian<br>
+[Sin Luz: Life Without Power in Puerto Rico](https://www.washingtonpost.com/graphics/2017/national/puerto-rico-life-without-power/?utm_term=.6d792120fca8)<Br>
+[Simone Biles, Gymnast](https://www.nytimes.com/interactive/2016/08/05/sports/olympics-gymnast-simone-biles.html)<br>
+[Bulger on Trial](http://bulger.wbur.org/story/1977/)<br>
+[Snowfall: The Avalanche at Tunnel Creek](http://www.nytimes.com/projects/2012/snow-fall/index.html#/?part=tunnel-creek)<br>
+[Climate Change Claims a Lake and an Identity](https://www.nytimes.com/interactive/2016/07/07/world/americas/bolivia-climate-change-lake-poopo.html)
 
-### Week Ten: News App Framework Hosting
+### Week Ten: Scroll Driven Storytelling Hands-On
 
-We go over how to 'push' your app live on the web using free app/database hosting environments like Heroku.
-
-*Week Ten Readings*<br>
-[Introduction to Heroku](https://www.youtube.com/watch?v=QTOkqzCTGxw)<br>
-[NewsPix](http://www.kanarinka.com/project/newspix/), Catherine D'Ignazio
+We will work with the Scroll Driven Storytelling repository and explore additional project transitions and features of the Scrollmagic.js library that you will use to create your story's immersive site.
 
 ### Week Eleven and Twelve: News App Project Workshop
 
@@ -125,4 +138,4 @@ Students will work together in teams and address issues they have encountered wi
 
 ### Week Thirteen: News App Project Presentation & Final Pull Requests
 
-Students give a live presentation of their app and do a final 'pull request' on the news organization's repository, letting them know a student team has built an app with the app template they developed.
+Students give a live presentation of their app and do a final pull request on the class's repository, adding a link to their project to our class's official list of work.
