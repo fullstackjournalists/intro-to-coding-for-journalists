@@ -109,7 +109,7 @@ Then type `git commit -m " "` Describe what you did between the quotes and press
 Type `git push origin master`. Make sure your commit now shows up at
 http://github.com/yourusername/week3-lab
 
-### Adding text content
+### 3. Adding text content
 
 Return to `index.html` and browse what's there. Note where text from the current
 site template appears in the `index.html` file. Using those as a guide,
@@ -118,9 +118,9 @@ add the content for the remainder of the steps.
 Check your work at each step on [http://localhost:9000/](http://localhost:9000/) and make commits frequently. Remember that commits are a big part of your grade.
 
 
-### Setting up a web-available version
+### 4. Setting up a web-available version
 
-In your copy of the Week 3 repository at http://github.com/yourusername/week3-lab,
+In your copy of the Week 3 repository at [http://github.com/yourusername/week3-lab]([http://localhost:9000/](http://localhost:9000/),
 Scroll down until you see the section for Github Pages. Where it says "Source,"
 use the pulldown menu to make `master` the branch that your Github page will
 reflect online.
@@ -145,4 +145,6 @@ How could you remove that section without actually deleting any code?
 
 ## Week Three Assignment
 
-Due before class, Week 4: Fork and clone the week3-lab repository again, change the title and add links, content and images to make a bare-bones portfolio site about you and your work and interests. Make sure your new repository has a good name, like /yourname-portfolio. Commit changes and push frequently. When you are ready, post the link to the Github Pages version of your site to our class Slack workspace in the #assignments channel. Due by Week Four class time; you will show your work at the beginning of class. Impress us!
+Fork and clone the week3-lab repository again, change the title and add links, content and images to make a bare-bones portfolio site about you and your work and interests. Make sure your new repository has a good name, like /yourname-portfolio.
+
+Commit changes and push frequently -- your grade is influenced by your commits and commit messages. If you make one big commit at the end, you will get a failing grade for the assignment. When you are ready, post the link to the Github Pages version of your site to our class Slack workspace in the #assignments channel. Due by Week Four class time; you will show your work at the beginning of class. Impress us!
