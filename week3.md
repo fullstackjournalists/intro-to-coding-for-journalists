@@ -120,7 +120,7 @@ Check your work at each step on [http://localhost:9000/](http://localhost:9000/)
 
 ### 4. Setting up a web-available version
 
-In your copy of the Week 3 repository at http://github.com/yourusername/week3-lab,
+In your copy of the Week 3 repository at [http://github.com/yourusername/week3-lab]([http://localhost:9000/](http://localhost:9000/),
 Scroll down until you see the section for Github Pages. Where it says "Source,"
 use the pulldown menu to make `master` the branch that your Github page will
 reflect online.
@@ -145,6 +145,6 @@ How could you remove that section without actually deleting any code?
 
 ## Week Three Assignment
 
-Fork and clone the week3-lab repository again, change the title and add links, content and images to make a bare-bones portfolio site about you and your work and interests. Make sure your new repository has a good name, like /yourname-portfolio. 
+Fork and clone the week3-lab repository again, change the title and add links, content and images to make a bare-bones portfolio site about you and your work and interests. Make sure your new repository has a good name, like /yourname-portfolio.
 
 Commit changes and push frequently -- your grade is influenced by your commits and commit messages. If you make one big commit at the end, you will get a failing grade for the assignment. When you are ready, post the link to the Github Pages version of your site to our class Slack workspace in the #assignments channel. Due by Week Four class time; you will show your work at the beginning of class. Impress us!
