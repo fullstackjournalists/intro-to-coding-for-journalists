@@ -7,7 +7,7 @@
 
 We introduce version control -- a core aspect of coding and collaborating. We connect to code repositories maintained by The New York Times, Washington Post, and The Guardian and 'clone' those onto our own machines.
 
-* Week Three: Bootstrap and Flat File Websites
+* [Week Three: Bootstrap and Flat File Websites](week3.md)
 
 We use Bootstrap -- a template language developed by Twitter -- to create a template for a simple flat-file website, which we store and host on Github. (Builds on the HTML/CSS lessons from 550 and 704)
 
