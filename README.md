@@ -42,6 +42,10 @@ Interactive Data Visualization for the Web, Chapter 3<br>
 *Week Three Diagnostic*<br>
 You will have a diagnostic on the terms and concepts covered in Chapter 3 of Interactive Data Visualization for the Web, and terms and concepts covered in What Is Bootstrap and How Do I Use It?<Br>
 
+*Week Three Lab*<br>
+
+We will build a basic flat-file site in class. Find repositories and directions here: [Week 3 Lab](https://github.com/fullstackjournalists/intro-to-coding-for-journalists/blob/master/week3.md)
+
 *Week Three Assignment*<Br>
 Fork and clone the Flat File Site repository, change the title and add links, content and images to make a bare-bones portfolio site. Commit changes and push frequently. When you are ready, post the link to the Github Pages version of your site to our class Slack workspace in the #assignments channel. Due by Week Four class time; you will show your work at the beginning of class.
 
