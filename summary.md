@@ -1,6 +1,6 @@
 # Intro to Coding For Journalists
 
-*[Basic Requirements for This Course](basic-requirements.md)
+* [Basic Requirements for This Course](basic-requirements.md)
 
 * [Week One: Why Code?/The Development Environment](week1.md)
 
