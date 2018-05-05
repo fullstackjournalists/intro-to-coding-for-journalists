@@ -8,6 +8,7 @@ By class time for week three, you should have completed the following readings
 Interactive Data Visualization for the Web, Chapter 3<br>
 [What Is Bootstrap and How Do I Use It?](https://www.taniarascia.com/what-is-bootstrap-and-how-do-i-use-it/)<br>
 [Lessons from an Intermediate Programmer-Journalist](http://michelleminkoff.com/2015/03/27/lessons-from-an-intermediate-programmer-journalist-part-3-of-3/), Michelle Minkoff, AP<br>
+[What Is A Local Webserver, And Why Do I Want One?](http://www.dwuser.com/education/content/why-you-need-a-testing-server-and-how-to-do-it/) We use a different local webserver, but the reasons this author gives for having a local server as part of your development environment. No need to install the tools he mentions.
 
 ## Week Three Diagnostic
 You will have a diagnostic on the terms and concepts covered in Chapter 3 of Interactive Data Visualization for the Web, and terms and concepts covered in What Is Bootstrap and How Do I Use It?<Br>
@@ -24,7 +25,7 @@ Fork and clone the repository [Intro to Coding for Journalists: Week 3 Lab](http
 
 Using Terminal, navigate to the folder you just created using `git clone`.
 
-Type `ls`.
+Type `ls`, or if you are using Windows, `dir`.
 
 You should see the following files and folders:
 
@@ -52,12 +53,24 @@ to spin up a local webserver so we can see the files in this directory in our
 web browser.
 
 If all goes well, you should be able to see a basic, blank website using
-the "Grayscale" theme at [http://localhost:9000/](http://localhost:9000/).
+the "Grayscale" theme by clicking here: [http://localhost:9000/](http://localhost:9000/). This is a complete website, on a real webserver, entirely on your laptop. It cannot be accessed from the Internet -- it is yours for testing.
+
+*If `grunt serve` gives you an error message, type `npm install -g grunt-cli`, and once it installs, run `grunt serve` again.*
+
+### Add, Commit and Push
+
+At the command line, type `git status`. There should be many files that have not yet been added.
+
+Type `git add -A`. Then commit the files you added by typing `git commit -m " "`. Between the quotes, describe what you did, then hit return. Remember that I grade you on the quality of your commits, including your commit messages.
+
+Finally, type `git push origin master` to save your changes to your repository in the cloud at Github.com.
 
 ### Lab Assignment
 
 Your assignment is to create a website for Full Stack Journalists using this
-template as a starting point.
+template as a starting point (if you suspect I have an ulterior motive for this lab assignment...you might be right!)
+
+Use Atom to open the project folder (File > Add Project Folder) and add the Week3-Lab folder.
 
 The only two files you will need to alter are:
 
@@ -147,4 +160,4 @@ How could you remove that section without actually deleting any code?
 
 Fork and clone the week3-lab repository again, change the title and add links, content and images to make a bare-bones portfolio site about you and your work and interests. Make sure your new repository has a good name, like /yourname-portfolio.
 
-Commit changes and push frequently -- your grade is influenced by your commits and commit messages. If you make one big commit at the end, you will get a failing grade for the assignment. When you are ready, post the link to the Github Pages version of your site to our class Slack workspace in the #assignments channel. Due by Week Four class time; you will show your work at the beginning of class. Impress us!
+Commit changes and push frequently -- your grade is influenced by your commits and commit messages. If you make one big commit at the end, you will get a failing grade for the assignment. When you are ready, post the link to the Github Pages version of your site, and a link to your repository, to our class Slack workspace in the #assignments channel. Due by Week Four class time; you will show your work at the beginning of class. Impress us!
