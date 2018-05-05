@@ -4,7 +4,6 @@
 
 * [Week One: Why Code?/The Development Environment](week1.md)
 
-
 * [Week Two: Version Control: Git, Github](week2.md)
 
 We introduce version control -- a core aspect of coding and collaborating. We connect to code repositories maintained by The New York Times, Washington Post, and The Guardian and 'clone' those onto our own machines.
