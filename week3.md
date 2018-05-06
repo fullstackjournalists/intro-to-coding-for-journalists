@@ -13,7 +13,7 @@ Interactive Data Visualization for the Web, Chapter 3<br>
 ## Week Three Diagnostic
 You will have a diagnostic on the terms and concepts covered in Chapter 3 of Interactive Data Visualization for the Web, and terms and concepts covered in What Is Bootstrap and How Do I Use It?<Br>
 
-[Week Three Diagnostic]()<br>
+[Week Three Diagnostic](https://github.com/fullstackjournalists/Week3-Diagnostic)<br>
 
 ## Week Three Lab
 

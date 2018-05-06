@@ -5,8 +5,13 @@ We introduce version control -- a core aspect of coding and collaborating. We co
 *Week Two Readings*<br>
 [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction#start), Chapter 2, Branching and Merging, and Chapter 3, Sharing Code<br>
 
+*Week Two Lab*
+
+We will explore Git and Github. 
+
 *Week Two Diagnostic*<br>
-You will have a diagnostic (quiz) on the basics of Git, Github, and the command line.
+You will have a diagnostic (quiz) on the basics of Git, Github, and the command line. This diagnostic will be at the END of class (normally diagnostics are at the beginning of class). <Br>
+[Week 2 Diagnostic](https://github.com/fullstackjournalists/Week2-Diagnostic)
 
 *Week Two Assignment*<br>
 Fork and clone our class repository, add your name and a link to a project or your website on the students.md file, commit your changes, push them, and make a pull request. Due by Week 3 class.<br>
