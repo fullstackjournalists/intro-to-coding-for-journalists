@@ -9,17 +9,17 @@ Weekly presentation: Each week a student or pair of students should select and b
 
 ## Skills Assessment
 
-Before we begin, please fill out the following survey: [Intro to Coding for Journalist Skills Assessment]. This class enthusiastically welcomes beginners. Do not be intimidated by this survey or feel that you should know more than you do! We just want to know where you are at.
+Before we begin, please fill out the following survey: [Intro to Coding for Journalist Skills Assessment](https://docs.google.com/forms/d/e/1FAIpQLSdTTlIj_aQ0yp9NFLXKr5xMXPpLFxbz0OzamPcYWTyU7698xQ/viewform?usp=sf_link). This class enthusiastically welcomes beginners. Do not be intimidated by this survey or feel that you should know more than you do! We just want to know where you are at.
 
 ## Week 1 Lab
 
 ### Install All The Things!
 
-We will spend the first part of the class installing the necessary tools for this course on your machine. Please visit [Basic Requirements](basic-requirements.md) when instructed to do so by your sponsor. Do not skip ahead until asked to do so!
+We will spend the first part of the class installing the necessary tools for this course on your machine. Please visit [Basic Requirements](basic-requirements.md) when instructed to do so. Do not skip to the next thing until your instructor asks you to!
 
 ### The Command Line
 
-Each week's session will contain a lab segment where we walk through code or use tools. In this lab, we're going to get familiar with the basics of the command line and set up your project folder for this course.
+Each week's session will contain a lab segment where we walk through code or use tools. In this lab, we're going to get familiar with the basics of the command line and set up your project folder for this course. *Note: the following lab instructions assume you are using the Terminal application for MacOS. Many of these commands may work in the CMD shell for Windows or Powershell, but we make no guarantees.*
 
 ### Open Terminal
 
@@ -100,7 +100,6 @@ While at the command line, press Command + T. Your Terminal window can have tabs
 Type `cd ~`. No matter where you are, this will always bring you to your root directory. Type `ls` so you can see your `projects` folder in the list of folders. Now type `cd proj` but don't finish typing "projects." Instead, hit the Tab button. Nifty, isn't it? Your terminal will autocomplete many things for you.
 
 
-
 ## Week 1 Readings
 
 [Does Journalism Work?](http://jonathanstray.com/does-journalism-work), Jonathan Stray<br>
@@ -109,4 +108,4 @@ Type `cd ~`. No matter where you are, this will always bring you to your root di
 
 ## Week 1 Assignments
 
-Please complete the Week 1 and Week 2 readings and come to next week's class prepared to discuss them.
+Please complete the Week 1 and Week 2 readings and come to next week's class prepared to discuss them. You will have a diagnostic next week that will include some of what we covered today. 
