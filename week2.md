@@ -199,6 +199,6 @@ Finish your pull request and see what happens.
 
 There's a real live person or team on the other side of your pull request. They'll see your incoming request in their Pull Requests tab and choose to integrate those changes or not. Remember to write a good pull request message describing your changes and why you think they're an improvement if you want a better chance of having your "PR" approved.
 
-*Week Two Assignment*<br>
+## Week Two Assignment
 
-Fork and clone our class repository, add your name and a link to a project or your website on the students.md file, commit your changes, push them, and make a pull request. Due by Week 3 class.<br>
+Fork and clone our class repository, add your name and a link to a project or your website on the students.md file, commit your changes, push them, and make a pull request. Due by Week 3 class. Remember to complete any readings assigned for week 3. You will have a diagnostic quiz on the week 3 readings, which introduce you to many basic web development concepts. It is dense! Remember to schedule some time to devote to reading and studying this material this week. 
