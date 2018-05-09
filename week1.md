@@ -23,6 +23,8 @@ On your machine, visit Applications > Utilities > Terminal.
 
 You will see something like this:
 
+![Terminal screenshot]("/images/terminal.png")
+
 At the command line, type `cd ~`. That's a tilde, usually to the right of the 1 key on your keyboard. Press return.
 
 You are now in the `root directory` of your machine (or your user account on your machine). By `root directory`, we mean that there are no higher levels of folders.
