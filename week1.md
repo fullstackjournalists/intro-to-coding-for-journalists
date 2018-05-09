@@ -1,6 +1,5 @@
 # Week 1: Why Code?/The Development Environment
 
-
 We address the basic questions of 'why code' -- which go far beyond 'it will get me a job.' Accountability in our increasingly high-tech world requires more of us as journalists -- we want to have a working knowledge of the technologies that have an impact on public policy and the lives of individuals.
 
 We introduce the idea of a 'development environment' -- the integrated suite of tools used by newsroom developers to create projects. Each student leaves with a working set of tools.
@@ -85,11 +84,13 @@ Now type `rm -rf oops`.
 
 Type `ls` again. Is your folder gone?
 
-Exercise: Visit this [terminal cheatsheet](https://gist.github.com/poopsplat/7195274) and tell us what the -r -f flags mean on the `rm` command.
-
 #### The command line is powerful...use it wisely!
 
 The command line is a powerful tool that does what you ask. It doesn't give you a lot of warnings asking you if you want to delete things. You can delete vast swaths of your work this way.
+
+#### Exercise:
+
+Visit this [terminal cheatsheet](https://gist.github.com/poopsplat/7195274) and tell us what the -r -f flags mean on the `rm` command.
 
 ### Terminal shortcuts
 
@@ -108,4 +109,4 @@ Type `cd ~`. No matter where you are, this will always bring you to your root di
 
 ## Week 1 Assignments
 
-Please complete the Week 1 and Week 2 readings and come to next week's class prepared to discuss them. You will have a diagnostic next week that will include some of what we covered today. 
+Please complete the Week 1 and Week 2 readings and come to next week's class prepared to discuss them. You will have a diagnostic next week that will include some of what we covered today.
