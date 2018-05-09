@@ -7,13 +7,17 @@ We introduce the idea of a 'development environment' -- the integrated suite of 
 
 Weekly presentation: Each week a student or pair of students should select and be prepared to discuss a news app or data visualization.
 
+## Skills Assessment
+
+Before we begin, please fill out the following survey: [Intro to Coding for Journalist Skills Assessment]. This class enthusiastically welcomes beginners. Do not be intimidated by this survey or feel that you should know more than you do! We just want to know where you are at.
+
 ## Week 1 Lab
 
-## Install All The Things!
+### Install All The Things!
 
 We will spend the first part of the class installing the necessary tools for this course on your machine. Please visit [Basic Requirements](basic-requirements.md) when instructed to do so by your sponsor. Do not skip ahead until asked to do so!
 
-## The Command Line
+### The Command Line
 
 Each week's session will contain a lab segment where we walk through code or use tools. In this lab, we're going to get familiar with the basics of the command line and set up your project folder for this course.
 
@@ -23,7 +27,7 @@ On your machine, visit Applications > Utilities > Terminal.
 
 You will see something like this:
 
-![Terminal screenshot]("/images/terminal.png")
+<img src = "https://raw.githubusercontent.com/fullstackjournalists/intro-to-coding-for-journalists/master/images/terminal.png" height = "250">
 
 At the command line, type `cd ~`. That's a tilde, usually to the right of the 1 key on your keyboard. Press return.
 
