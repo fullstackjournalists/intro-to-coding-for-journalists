@@ -156,7 +156,7 @@ Click on that.
 
 You'll see a reverse-chronological list of all the commits on that repository, like so:
 
-<img src ="/images/commit-list.png" width = "500">
+<img src ="/images/commit-list.png" width = "800">
 
 Note the series of letters and numbers to the right of each commit, and the clipboard icon next to it.
 
@@ -185,7 +185,7 @@ Across the top row of tabs on your repository, you'll see one called "Pull reque
 
 Click on that and you'll see this:
 
-<img src ="/images/pull-request.png" width = "500">
+<img src ="/images/pull-request.png" width = "800">
 
 I'd like you to note a few things before moving on. It might be easiest to do so if you visit the Pull Requests tab in your own repository. First, note that underneath the name of your repository, it notes where it was forked from -- what your 'master' repository is.
 
