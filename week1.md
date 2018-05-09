@@ -23,7 +23,7 @@ On your machine, visit Applications > Utilities > Terminal.
 
 You will see something like this:
 
-![Terminal screenshot]("/images/terminal.png")
+<img src = "https://raw.githubusercontent.com/fullstackjournalists/intro-to-coding-for-journalists/master/images/terminal.png" height = "250">
 
 At the command line, type `cd ~`. That's a tilde, usually to the right of the 1 key on your keyboard. Press return.
 
