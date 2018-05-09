@@ -19,7 +19,7 @@ You will have a diagnostic (quiz) on the basics of Git, Github, and the command 
 When you `fork` a repository, you make a copy of a repository in Github. That copy resides in your own Github account. Any changes you might make are not reflected automatically in the master or "upstream" repository.
 
 **Do now:** Fork the Week 2 Lab repository: [Week 2 Lab](). You will see a button in the upper left that reads 'fork.' It looks like this: <br>
-![Fork button, Github](http://)
+![Fork button, Github](/images/fork.png)
 
 Once you do that, you will see a cute little animation that looks like this: <br>
 
@@ -78,15 +78,6 @@ Now, you have added files and "committed your changes" along with a commit messa
 Back at the command line, type `git push origin master` and hit return.
 
 **Doublecheck:** Visit your version of the Week2 Lab repository in your account on Github. Do you see your commit message, and the new file? If so, proceed to the next step.
-
-
-
-
-
-
-
-
-
 
 
 
