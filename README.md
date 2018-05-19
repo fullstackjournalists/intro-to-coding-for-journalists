@@ -2,6 +2,28 @@
 
 This repository will hold a growing collection of resources and links to repositories to support a semester-long college level course aimed at journalists who want to learn coding skills.
 
+### About this class
+
+#### Basic requirements
+
+This class enthusiastically welcomes beginners. No coding experience is necessary. You will need to be able to install and run the required software for the course on a machine that you will have access to between classes. The list of required software is [here](basic-requirements.md). If you are taking an in-person class, we will spend time in the first class installing those tools. 
+
+#### Required Text
+
+We will be using [Scott Murray's Interactive Data Visualization for the Web, 2nd Edition](https://www.amazon.com/Interactive-Data-Visualization-Web-Introduction/dp/1491921285/ref=dp_ob_title_bk).
+
+#### Readings and assignments
+
+Readings and assignments for a week are due the week they are listed; so readings and assignments listed under Week 3 are due at the beginning of Week 3. If your assignments include code, your commits or pull requests must be complete before class time on the week they are due.
+
+#### Diagnostics
+
+Diagnostics are quizzes done in class, typically at the beginning of class.
+
+#### Labs
+
+Labs are in-class exercises and activities. Each one is detailed in this repository with its own file, labeled like this: `week1.md`, `week2.md`, etc.
+
 ## Coding For Journalists: A Course Outline
 
 ### Week One: Why Code?/The Development Environment
@@ -10,9 +32,11 @@ We address the basic questions of 'why code' -- which go far beyond 'it will get
 
 We introduce the idea of a 'development environment' -- the integrated suite of tools used by newsroom developers to create projects. Each student leaves with a working set of tools.
 
-Weekly presentation: Each week a student or pair of students should select and be prepared to discuss a news app or data visualization.
+#### Week 1 Lab
 
-*Week One Readings*<br><br>
+[Week 1 Lab](week1.md)
+
+#### Week 1 Readings
 [Does Journalism Work?](http://jonathanstray.com/does-journalism-work), Jonathan Stray<br>
 [Getting to Know The Command Line](https://www.davidbaumgold.com/tutorials/command-line/), David Baumgold<br>
 [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction#start), Chapter 1, The Basics<br><br>
@@ -21,33 +45,40 @@ Weekly presentation: Each week a student or pair of students should select and b
 
 We introduce version control -- a core aspect of coding and collaborating. We connect to code repositories maintained by The New York Times, Washington Post, and The Guardian and 'clone' those onto our own machines.
 
-*Week Two Readings*<br>
+#### Week Two Readings
 [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction#start), Chapter 2, Branching and Merging, and Chapter 3, Sharing Code<br>
 
-*Week Two Diagnostic*<br>
+#### Week Two Diagnostic
 You will have a diagnostic (quiz) on the basics of Git, Github, and the command line.
 
-*Week Two Assignment*<br>
-Fork and clone our class repository, add your name and a link to a project or your website on the students.md file, commit your changes, push them, and make a pull request. Due by Week 3 class.<br>
+#### Week Two Lab
+
+[Week 2 Lab](week2.md)
+
+#### Week Two Assignment
+
+See the end of [Week 2 Lab](week2.md) for assignment details. Complete Week 3 Readings below. Assignment and readings must be completed by the beginning of class on Week 3.
 
 ### Week Three: Bootstrap and Flat File Websites
 
 We use Bootstrap -- a template language developed by Twitter -- to create a template for a simple flat-file website, which we store and host on Github.
 
-*Week Three Readings*<br>
+#### Week 3 Readings
 Interactive Data Visualization for the Web, Chapter 3<br>
 [What Is Bootstrap and How Do I Use It?](https://www.taniarascia.com/what-is-bootstrap-and-how-do-i-use-it/)<br>
 [Lessons from an Intermediate Programmer-Journalist](http://michelleminkoff.com/2015/03/27/lessons-from-an-intermediate-programmer-journalist-part-3-of-3/), Michelle Minkoff, AP<br>
 
-*Week Three Diagnostic*<br>
-You will have a diagnostic on the terms and concepts covered in Chapter 3 of Interactive Data Visualization for the Web, and terms and concepts covered in What Is Bootstrap and How Do I Use It?<Br>
+#### Week 3 Diagnostic
+You will have a diagnostic on the terms and concepts covered in Chapter 3 of Interactive Data Visualization for the Web, and terms and concepts covered in What Is Bootstrap and How Do I Use It?
 
-*Week Three Lab*<br>
+##### Week 3 Lab
 
 We will build a basic flat-file site in class. Find repositories and directions here: [Week 3 Lab](https://github.com/fullstackjournalists/intro-to-coding-for-journalists/blob/master/week3.md)
 
-*Week Three Assignment*<Br>
-Fork and clone the Flat File Site repository, change the title and add links, content and images to make a bare-bones portfolio site. Commit changes and push frequently. When you are ready, post the link to the Github Pages version of your site to our class Slack workspace in the #assignments channel. Due by Week Four class time; you will show your work at the beginning of class.
+#### Week 3 Assignment
+
+See [Week 3 Lab](week3.md) for assignment details. Your code must be committed by class time to get credit for your assignment. You will show your work in class at the beginning of class on Week 4. Complete Week 4 readings by Week 4 class time.
+
 
 ### Week Four: Javascript: The D3.js Library Introduction
 

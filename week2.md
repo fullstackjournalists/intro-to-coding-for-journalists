@@ -23,7 +23,7 @@ When you `fork` a repository, you make a copy of a repository in Github. That co
 
 Once you do that, you will see a cute little animation that looks like this: <br>
 
-![Fork animation]()
+![Fork animation](/images/fork-animation.png)
 
 Once this is done, you should have a new copy of the repository in your own Github account.
 
@@ -201,4 +201,4 @@ There's a real live person or team on the other side of your pull request. They'
 
 ## Week Two Assignment
 
-Fork and clone our class repository, add your name and a link to a project or your website on the students.md file, commit your changes, push them, and make a pull request. Due by Week 3 class. Remember to complete any readings assigned for week 3. You will have a diagnostic quiz on the week 3 readings, which introduce you to many basic web development concepts. It is dense! Remember to schedule some time to devote to reading and studying this material this week. 
+In your version of the Intro to Coding for Journalists repository, add your name and a link to a project or your website on the students.md file, commit your changes, push them, and make a pull request. Due by Week 3 class. Remember to complete any readings assigned for week 3. You will have a diagnostic quiz on the week 3 readings, which introduce you to many basic web development concepts. It is dense! Remember to schedule some time to devote to reading and studying this material this week.
