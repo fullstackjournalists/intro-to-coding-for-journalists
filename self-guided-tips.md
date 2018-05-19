@@ -19,7 +19,7 @@ In-person students for this class have a final project: they do a reported story
 
 ## Will I Need To Spend Any Money?
 
-Not on software. But you will need a copy of our textbook, Scott Murray's [Interactive Data Visualization for the Web](https://www.amazon.com/Interactive-Data-Visualization-Web-Introduction/dp/1491921285/ref=dp_ob_title_bk), which is available on Amazon.
+Not on software. But you will need a copy of our textbook, Scott Murray's [Interactive Data Visualization for the Web](https://www.amazon.com/Interactive-Data-Visualization-Web-Introduction/dp/1491921285/ref=dp_ob_title_bk), if you want to progress beyond Week 3's lessons.  The book is available on Amazon.
 
 ## Recommendations
 
@@ -29,9 +29,9 @@ In order to complete the activities in this course, you will have to install the
 
 ### Start Here
 
-Start with this self-assessment: [Intro to Coding for Journalist Skills Assessment](https://docs.google.com/forms/d/e/1FAIpQLSdTTlIj_aQ0yp9NFLXKr5xMXPpLFxbz0OzamPcYWTyU7698xQ/viewform?usp=sf_link).
+Start with this self-assessment: [Intro to Coding for Journalist Skills Assessment](https://docs.google.com/forms/d/e/1FAIpQLSdTTlIj_aQ0yp9NFLXKr5xMXPpLFxbz0OzamPcYWTyU7698xQ/viewform?usp=sf_link). If you have already filled it out, you can skip this step.
 
-Once you're done with that, install the tools listed in [Basic Requirements](basic-requirements.md) and visit the [course outline](README.md). Start with [Week 1: Why Code?/The Development Environment](https://github.com/fullstackjournalists/intro-to-coding-for-journalists/blob/master/README.md#week-one-why-codethe-development-environment). Each week has a similar structure:
+Once you're done with that, install the tools listed in [Basic Requirements](basic-requirements.md) and visit the [course outline](README.md). Once you've done that, start your journey with [Week 1: Why Code?/The Development Environment](https://github.com/fullstackjournalists/intro-to-coding-for-journalists/blob/master/README.md#week-one-why-codethe-development-environment). Each week has a similar structure:
 
 * Readings
 * Diagnostic
