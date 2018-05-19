@@ -4,7 +4,7 @@ If you are working through this course as a self-guided learner, welcome and tha
 
 ## What Will I Learn?
 
-The goal of this course is for students to be able to spin up immersive, scrollable story sites, complete with interactive data visualizations, using modern development tools and Javascript.
+The goal of this course is for students to learn newsroom-ready coding skills. Students who take this course will be able to spin up immersive, scrollable story sites, complete with interactive data visualizations, using modern development tools and Javascript.
 
 For students doing this course in-person, there are a number of learning objectives. As a self-guided learner, you should be able to do all these things if you do the readings, quizzes, and actually do the assignments.
 
