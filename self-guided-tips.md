@@ -42,10 +42,6 @@ Start with the readings. Then visit the linked "lab" page for that week and foll
 
 At this writing, we have only released the full course material for Weeks 1-3. Keep an eye on the repository for more lessons to drop!
 
-### Do The Reading!
-
-**The readings are not optional.** Ya gotta read the book! You won't be able to finish the lab or assignments -- and you won't pick up the skills -- unless you do the readings, particularly the ones in the assigned text. You need them to actually get through this course and learn what's being taught here.
-
 ### Do The Diagnostics!
 
 Sure, you could skip the quizzes. But you're really shorting yourself if you do.
