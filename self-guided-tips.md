@@ -4,7 +4,9 @@ If you are working through this course as a self-guided learner, welcome and tha
 
 ## What Will I Learn?
 
-For students doing this course in-person, there are a number of learning objectives:
+The goal of this course is for students to be able to spin up immersive, scrollable story sites, complete with interactive data visualizations, using modern development tools and Javascript.
+
+For students doing this course in-person, there are a number of learning objectives. As a self-guided learner, you should be able to do all these things if you do the readings, quizzes, and actually do the assignments.
 
 * Become comfortable with the command line -- managing files, making commands, and using command line tools like `git`, `npm`, and `grunt`.
 * Understand and be able to use version control tools, in particular, `git` and Github.
@@ -13,10 +15,7 @@ For students doing this course in-person, there are a number of learning objecti
 * Learn computer programming basics -- variables, arrays, functions -- as part of our work. In this case, we learn those basics in the context of the Javascript programming language.
 * Use two Javascript libraries (prewritten stacks of code): D3.js, a library that allows us to make interactive data visualizations, and Scrollmagic.js, a library that allows us to make immersive, scrollable interactive feature packages.
 
-By the end of this course, students will know how to do interactive, web-ready data visualizations using D3.js, and interactive, immersive scrolling stories using Scrollmagic. Students taking this course will have a final project where they report a story and build the site for it and at least one interactive data element to go with that story.
-
-As a self-guided learner, you should be able to complete the D3 assignments and spin up immersive, interactive scrolling websites. Whether you decide to assign yourself a story to put in those sites? That's up to you!
-
+In-person students for this class have a final project: they do a reported story, and then build an immersive, scrolling site to contain it, and it must contain at least one interactive data visualization that they code themselves. Whether you do that -- that's up to you! We hope you will use these skills in your work as a storyteller/journalist.
 
 ## Will I Need To Spend Any Money?
 
@@ -43,7 +42,7 @@ Start with the readings. Then visit the linked "lab" page for that week and foll
 
 ### Do The Reading!
 
-You won't be able to finish the lab or assignments -- and you won't pick up the skills -- unless you do the readings, particularly the ones in the assigned text. They're not optional. You need them to actually get through this course and learn what's being taught here.
+**The readings are not optional.** Ya gotta read the book! You won't be able to finish the lab or assignments -- and you won't pick up the skills -- unless you do the readings, particularly the ones in the assigned text. You need them to actually get through this course and learn what's being taught here.
 
 ### Do The Diagnostics!
 
