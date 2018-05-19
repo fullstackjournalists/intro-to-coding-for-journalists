@@ -6,7 +6,7 @@ This repository will hold a growing collection of resources and links to reposit
 
 #### Basic requirements
 
-This class enthusiastically welcomes beginners. No coding experience is necessary. You will need to be able to install and run the required software for the course on a machine that you will have access to between classes. The list of required software is [here](basic-requirements.md). If you are taking an in-person class, we will spend time in the first class installing those tools. 
+This class enthusiastically welcomes beginners. No coding experience is necessary. You will need to be able to install and run the required software for the course on a machine that you will have access to between classes. The list of required software is [here](basic-requirements.md). If you are taking an in-person class, we will spend time in the first class installing those tools.
 
 #### Required Text
 
@@ -23,6 +23,10 @@ Diagnostics are quizzes done in class, typically at the beginning of class.
 #### Labs
 
 Labs are in-class exercises and activities. Each one is detailed in this repository with its own file, labeled like this: `week1.md`, `week2.md`, etc.
+
+#### If You Are A Self-Guided Learner
+
+If you are working your way through this class on your own, thank you! Please see our [Intro To Coding for Journalists: Self-Guided Tips](self-guided-tips.md) here. 
 
 ## Coding For Journalists: A Course Outline
 
