@@ -2,6 +2,10 @@
 
 We introduce version control -- a core aspect of coding and collaborating. We connect to code repositories maintained by The New York Times, Washington Post, and The Guardian and 'clone' those onto our own machines.
 
+### Before You Begin
+
+Before you begin this week's lab, you will need to install this course's required software, which is listed in [Basic Requirements](basic-requirements.md). You will not be able to
+
 ## Week Two Readings
 
 [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction#start), Chapter 2, Branching and Merging, and Chapter 3, Sharing Code<br>
@@ -18,7 +22,7 @@ You will have a diagnostic (quiz) on the basics of Git, Github, and the command 
 
 When you `fork` a repository, you make a copy of a repository in Github. That copy resides in your own Github account. Any changes you might make are not reflected automatically in the master or "upstream" repository.
 
-**Do now:** Fork the Week 2 Lab repository: [Week 2 Lab](). You will see a button in the upper left that reads 'fork.' It looks like this: <br>
+**Do now:** Fork the Week 2 Lab repository: [Week 2 Lab](https://github.com/fullstackjournalists/Week2Lab). You will see a button in the upper left that reads 'fork.' It looks like this: <br>
 ![Fork button, Github](/images/fork.png)
 
 Once you do that, you will see a cute little animation that looks like this: <br>
