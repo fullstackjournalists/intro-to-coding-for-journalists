@@ -31,7 +31,7 @@ In order to complete the activities in this course, you will have to install the
 
 Start with this self-assessment: [Intro to Coding for Journalist Skills Assessment](https://docs.google.com/forms/d/e/1FAIpQLSdTTlIj_aQ0yp9NFLXKr5xMXPpLFxbz0OzamPcYWTyU7698xQ/viewform?usp=sf_link).
 
-Once you're done with that, install the tools listed in [Basic Requirements](basic-requirements.md) and visit the [course outline](README.md). Start with [Week 1: Why Code?/The Development Environment]. Each week has a similar structure:
+Once you're done with that, install the tools listed in [Basic Requirements](basic-requirements.md) and visit the [course outline](README.md). Start with [Week 1: Why Code?/The Development Environment](https://github.com/fullstackjournalists/intro-to-coding-for-journalists/blob/master/README.md#week-one-why-codethe-development-environment). Each week has a similar structure:
 
 * Readings
 * Diagnostic
@@ -39,6 +39,8 @@ Once you're done with that, install the tools listed in [Basic Requirements](bas
 * Assignment
 
 Start with the readings. Then visit the linked "lab" page for that week and follow the instructions. Some weeks have a diagnostic (quiz), usually to be completed before you do the lab. Complete the diagnostic before moving on to the lab unless the lab instructions tell you otherwise. At the end of the lab, there will be an assignment for you to work on independently.
+
+At this writing, we have only released the full course material for Weeks 1-3. Keep an eye on the repository for more lessons to drop!
 
 ### Do The Reading!
 
