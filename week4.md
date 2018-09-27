@@ -55,13 +55,6 @@ You should see something like the following:
 
 *If `grunt serve` gives you an error message, type `npm install -g grunt-cli`, and once it installs, run `grunt serve` again.*
 
-### Add, Commit and Push
-
-At the command line, type `git status`. There should be many files that have not yet been added.
-
-Type `git add -A`. Then commit the files you added by typing `git commit -m " "`. Between the quotes, describe what you did, then hit return. Remember that I grade you on the quality of your commits, including your commit messages.
-
-Finally, type `git push origin master` to save your changes to your repository in the cloud at Github.com.
 
 ## Code Exploration
 
@@ -136,6 +129,14 @@ Notice the following code block:
 Change `stroke: #000;` to another color, using [ColorHex](http://www.color-hex.com/).
 
 Visit[http://localhost:9000/working.html](http://localhost:9000/). Has the color of the axes changed? Great. Now change them back to black.
+
+### Add, Commit and Push
+
+At the command line, type `git status`. You should see at least one file that has not been added.
+
+Type `git add -A`. Then commit the files you added by typing `git commit -m " "`. Between the quotes, describe what you did, then hit return. Remember that I grade you on the quality of your commits, including your commit messages.
+
+Finally, type `git push origin master` to save your changes to your repository in the cloud at Github.com.
 
 ## Linking to the D3.js library
 
