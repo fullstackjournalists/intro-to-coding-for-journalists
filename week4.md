@@ -18,7 +18,7 @@ During this class, we will build a simple interactive data visualization using D
 
 ### Fork and clone Week 4 Lab repository
 
-Fork and clone the repository [Intro to Coding for Journalists: Week 3 Lab](https://github.com/fullstackjournalists/Week4-Lab) into your `projects` folder.
+Fork and clone the repository [Intro to Coding for Journalists: Week 4 Lab](https://github.com/fullstackjournalists/Week4-Lab) into your `projects` folder.
 
 Using Terminal, navigate to the folder you just created using `git clone`.
 
