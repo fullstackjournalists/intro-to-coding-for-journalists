@@ -69,6 +69,8 @@ Here, you'll see a different scatterplot that's a little more interesting from a
 
 In this exercise, we are going to walk through all of the elements that create this data visualization, and then we are going to take our beginning dataviz -- the one on cereal -- and hook it up to our journalism-focused dataset on school scores vs. school spending.
 
+Throughout the next steps, you will be working on the `working.html` file.
+
 ### Doctype
 
 Every HTML document you create should have a DOCTYPE declaration. This tells the browser what kind of document it is.  Beyond that, we have a few other items of interest. Can you tell what they mean? What are the items that begin with `<!--`?
@@ -146,3 +148,37 @@ When we build an HTML page that makes use of a Javascript library, we have to li
 <script src="https://d3js.org/d3.v3.min.js"></script>
 
 ```
+
+## Changing our data source
+
+What's the difference between our two scatterplots, anyway? Data, right?
+So where do we link our code to our dataset, which is available in our repository as
+`MA-EDU-DATA4.csv`?
+
+The code you are looking for is on line 79 or thereabouts:
+
+d3.csv("cereal.csv", function(error, data) {
+
+Here you can see that the D3 library is using a *function.* Libraries have prewritten functions. Functions take *arguments.*  In this case, the `csv` function needs an argument that is a .csv file. Right now, it's pointing at `cereal.csv`. How do we change it?
+
+Change it to point to our education data.
+
+Save your file, and then look at http://localhost:9000 to see your scatterplot.
+It should be broken. Take a look at web inspector to see exactly *how* it's broken. You'll notice an error message like this one:
+
+`<circle> attribute cx: Expected length, "NaN".`
+
+Hm. What does this mean? Well, it means that the circle that D3 is trying to draw is looking for something -- but instead it is getting `NaN`. That stands for 'not a number.' But why?
+
+## Binding your data
+
+In order for our scatterplot to work, we have to *bind* our data. We've *called* it, with the d3.csv function, but we're still not "binding" it to shapes our users can see and interact with on the web page.
+
+Scan down the code. Do you see many references to "calories" and "protein" ?
+
+In order to bind our data, we'll have to replace those with the correct column names
+from our education data.
+
+In our case, let's have total per-pupil expenditure be the Y axis and MCAS test scores be the X (horizontal) axis.
+
+That means wherever you see "protein" you're going to have to replace it with the column name for per-pupil expenditure, and wherever you see "calories" you're going to have to replace it with per-pupil expenditure. 
