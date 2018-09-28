@@ -181,4 +181,10 @@ from our education data.
 
 In our case, let's have total per-pupil expenditure be the Y axis and MCAS test scores be the X (horizontal) axis.
 
-That means wherever you see "protein" you're going to have to replace it with the column name for per-pupil expenditure, and wherever you see "calories" you're going to have to replace it with per-pupil expenditure. 
+That means wherever you see "protein" you're going to have to replace it with the column name for per-pupil expenditure, and wherever you see "calories" you're going to have to replace it with per-pupil expenditure.
+
+Once you have done this, reload http://localhost:9000 and see what you get.
+
+## Add, Commit, Push
+
+When you make substantial progress, it's a good time to add, commit, and push your changes. 
