@@ -10,6 +10,7 @@ Interactive Data Visualization for the Web, Chapters 4 & 5<br>
 [Data Journalism Must Live Up To Its Own Standards](http://www.niemanlab.org/2014/07/alberto-cairo-data-journalism-needs-to-up-its-own-standards/), Alberto Cairo, NiemanLab
 
 # Week Four Diagnostic
+
 You will have a diagnostic on the portions of Javascript covered in Chapters 3 & 4.
 
 ## Week Four Lab
@@ -187,4 +188,15 @@ Once you have done this, reload http://localhost:9000 and see what you get.
 
 ## Add, Commit, Push
 
-When you make substantial progress, it's a good time to add, commit, and push your changes. 
+When you make substantial progress, it's a good time to add, commit, and push your changes.
+
+## How can we improve?
+
+Look at your current scatterplot. What can be improved? Take a moment to write down a shortlist of improvements you want to make to your scatterplot. It might include:
+
+* On mouseover, dots on the plot show MCAS score and total per-pupil expenditure, but not the name of the school district.
+* All the dots are the same color -- is there some way to improve that?
+* The legend on the upper right is not particularly useful.
+* Because of the larger numbers on the Y (vertical) axis, they appear cut off on the sides.
+
+Approach these problems one by one, making a commit after each one.
