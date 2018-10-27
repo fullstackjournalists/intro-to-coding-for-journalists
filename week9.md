@@ -71,3 +71,17 @@ var pinScene01 = new ScrollMagic.Scene({
 ```
 
 ### Changing the CSS
+
+In order to activate the new styles, we have to add to the CSS, immediately after the .slide .img style block:
+
+```
+#slide02 .img {
+  background-image: url(../img/img_macbook02.png);}
+
+#slide03 .img {
+  background-image: url(../img/img_macbook01.png);}
+
+#slide04 .img {
+  background-image: url(../img/img_macbook02.png);}
+
+```
